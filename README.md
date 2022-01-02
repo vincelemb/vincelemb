@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vincelemb
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Blender, Three.js, React-Three-Fiber
-- 💞️ I’m looking to collaborate on cool projects with UI interactions and animations ! 
-- 📫 vincent.lembo@outlook.fr
+👋 Hi, I’m @vincelemb
+
+![giphy](https://user-images.githubusercontent.com/35501355/147887159-098750bf-b113-46ca-9575-ac18b5d1e440.gif)
 
 <!---
 vincelemb/vincelemb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
