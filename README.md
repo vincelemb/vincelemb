@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vincelemb
+## 👋 Hi, I’m vincelemb
 
 - ⚛️ React Developer
 
@@ -6,7 +6,9 @@
 
 - 💞️ Looking for cool projects with UI interactions and animations !
 
-<img src="https://user-images.githubusercontent.com/35501355/147887159-098750bf-b113-46ca-9575-ac18b5d1e440.gif" width="200"/>
+- 📫 How to reach me: vincent.lembo@outlook.fr
+
+<img src="https://user-images.githubusercontent.com/35501355/147887159-098750bf-b113-46ca-9575-ac18b5d1e440.gif" width="300"/>
 
 <!---
 vincelemb/vincelemb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
